@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">boikotest</string>
+
+    <string name="only_favorites">Only Favorites</string>
+    <string name="full_list">Full List</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="something_wrong">Something went wrong during the request.</string>
+
+    <string name="id">ID: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="first_name">First Name: %1$s</string>
+    <string name="last_name">Last Name: %1$s</string>
+</resources>
