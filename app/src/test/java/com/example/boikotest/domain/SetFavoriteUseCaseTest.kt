@@ -18,7 +18,6 @@ class SetFavoriteUseCaseTest {
         favoritesRepository = favoritesRepository
     )
 
-
     @Test
     fun `test when set user as favorite`() = runTest {
         useCase.invoke(1, true)
